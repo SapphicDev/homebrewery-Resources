@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'NewBaskerville';
+    src: url('NewBaskerville-Bold.woff2') format('woff2'),
+        url('NewBaskerville-Bold.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NewBaskerville';
+    src: url('NewBaskervilleLight.woff2') format('woff2'),
+        url('NewBaskervilleLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NewBaskerville';
+    src: url('NewBaskerville.woff2') format('woff2'),
+        url('NewBaskerville.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
